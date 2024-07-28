@@ -1,5 +1,4 @@
 
 ```
 curl ipconfig.io
-
 ```
