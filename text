@@ -20,12 +20,42 @@ VNG(Virtual Network Gateway) 18 min or 30 min in aws(VPG)
 1.site to site VPN 
 2.point to site VPN(work form office remote users)
 
+
 --> how to connect third party cloud
 --> how to install active directires
 ---> user account creartion 
 ---> over the VPN synchronization.
 
  firewall class room -monday
+
+
+ ### class-7
+=====================================================================================================================
+hostname
+ipconfig/all
+firewall.cpl
+ncpa.cpl  (Active directory domain services and Telnet)
+sysdm.cpl 
+1. create windows server on AWS (windows AD connection)
+2. create customer Gateway
+3.site to site connection(aws to azure)
+4. LNG(Local network Gateway)
+
+DNS Can be change multiple Locations :
+------------------------------------------------
+1. vn (virtual networks) ---> DNS servers lo channge cheyavachu
+2. vm (virtual Machines) --. networking we can change.
+
+
+ DECOMISSION:
+ ------------
+
+
+
+
+
+
+
 
 
 
