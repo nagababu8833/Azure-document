@@ -33,6 +33,7 @@ VNG(Virtual Network Gateway) 18 min or 30 min in aws(VPG)
 =====================================================================================================================
 hostname
 ipconfig/all
+mstsc --->RDP Open
 firewall.cpl
 ncpa.cpl  (Active directory domain services and Telnet)
 sysdm.cpl 
